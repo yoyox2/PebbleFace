@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "psh5566@gmail.com",
+    "longName": "CalToe",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/back.png",
+                "name": "IMAGE_BACKGROUND2",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "CalToe",
+    "uuid": "7a0829cf-c4fc-4dc0-b50d-7a173e996dae",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
